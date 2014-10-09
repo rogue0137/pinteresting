@@ -1,3 +1,13 @@
 $body-bg:  #16a085;
+$navbar-inverse-brand-color: white;
+$btn-default-bg: #7f8c8d;
+$btn-default-color: white;
 
 @import "bootstrap";
+
+.center {
+	text-align: center;
+}
+.navbar-brand {
+	font-weight: bold;
+}
