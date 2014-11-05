@@ -78,6 +78,6 @@ Rails.application.configure do
 
   #Required for Heroku
   #make sure to set localhost to your actual website
-  config.action_mailer.default_url_options = { host: 'localhost', 'aryaallan.com' }
+  config.action_mailer.default_url_options = {host: 'localhost', 'aryaallan.com'}
   
 end
